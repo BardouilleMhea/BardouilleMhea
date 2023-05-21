@@ -10,7 +10,7 @@ I am an ambitious and driven individual eager to work hard and learn from profes
 
 <h2> 💻 I'm Currently Learning  💻 </h2>
 
-<b> Monroe College </b>
+<b>  <i> Monroe College </i> </b>
 - IT235 CCNA II: Switching,, Routing & Wireless Essentials
 - IT260 Advanced Programming
 - IT195 System Analysis & Design
