@@ -10,7 +10,7 @@ Data-driven problem solver with 4+ years of experience in research, analysis, da
 <i> Expected Graduation: June 2024  </i> <br/>
 <i> President List: (4 semesters) </i> <br/>
 
-<b> Dominica State College, Dominica  </b>         <br/>                                                    						         
+<b> Dominica State College, Dominica  </b>  <br/>                                                    						         
 <i> Associates of Science in Information Technology </i> <br/>
 <i> Major GPA: 3.87/4.00</i> <br/>
 <i> Graduated July 2022 - Summa Cum Laude </i> <br/>
