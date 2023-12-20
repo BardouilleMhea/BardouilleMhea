@@ -8,7 +8,7 @@ Data-driven problem solver with 4+ years of experience in research, analysis, da
 <i>Bachelor of Science in Computer Information Systems </i>			<br/>			   
 <i> Major GPA: 4.00/4.00 </i> <br/>
 <i> Expected Graduation: June 2024  </i> <br/>
-<i> President List: (4 semesters) </i> <br/>
+<i> President List: (4 semesters) </i> <br/> <br/>
 
 <b> Dominica State College, Dominica  </b>  <br/>                                                    						         
 <i> Associates of Science in Information Technology </i> <br/>
